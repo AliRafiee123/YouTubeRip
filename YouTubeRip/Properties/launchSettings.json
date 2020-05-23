@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YouTubeRip": {
+      "commandName": "Project",
+      "commandLineArgs": "-f c:\\temp\\list2.txt -o c:\\temp"
+    }
+  }
+}
